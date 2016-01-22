@@ -7,8 +7,11 @@ iOS App que permite estudiar el movimiento oscilatorio de un cuerpo de masa m un
 La aplicación mostrará tres gráficas:
 
 Posición del cuerpo en función del tiempo: la posición en el eje vertical y el tiempo en el eje horizontal.
+
 Velocidad del cuerpo en función del tiempo: la velocidad en el eje vertical y el tiempo en el eje horizontal.
+
 Relación velocidad-posicion: La velocidad en el eje vertical y la posición en el horizontal.
+
 La aplicación permitirá estudiar cómo es el movimiento del cuerpo seguún se varia el valor de los sliders, repintando en tiempo real las tres gráficas pedidas.
 
 La aplicación tendrá tres sliders para variar los siguientes valores:
